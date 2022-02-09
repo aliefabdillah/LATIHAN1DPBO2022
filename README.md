@@ -13,7 +13,7 @@ Spesifikasi Tugas:
   2. Tabel = Class untuk membuat tabel agar saat di print lebih rapih
   3. Main = untuk menjalankan progam
   
-- Pada Class DataTim ini terdiri dari properties, dan methode getter dan setter dari masing-masing atributnya:
+- Pada Class DataTim ini terdiri dari properties, dan methode getter dan setter dari masing-masing propertiesnya:
   1. nama : untuk menampung data nama tim
   2. negara : untuk menampung data asal negara tim
   3. kota : untuk menampung data kota asal tim
