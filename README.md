@@ -25,13 +25,13 @@ Spesifikasi Tugas untuk file c++ dan java:
 Spesifikasi Tugas untuk file php:
 - terdapat 2 class yaitu :
   1. DataTim = Class untuk representasi Data-data tim dan berisi atribut dan method
-  3. indexTim = untuk menjalankan progam
+  2. indexTim = untuk menjalankan progam
  
  - Pada Class DataTim ini terdiri dari properties, dan methode getter dan setter dari masing-masing propertiesnya:
-  1. nama : untuk menampung data nama tim
-  2. negara : untuk menampung data asal negara tim
-  3. kota : untuk menampung data kota asal tim
-  4. kandang : berisi data kandang dari tim
-  5. tahun berdiri : menampung data sejak tahun berapa tim berdiri
-  6. Pelatih : untuk menampung data pelatih tim
-  7. KaptemTim : untuk menampung data kapten tim
+   1. nama : untuk menampung data nama tim
+   2. negara : untuk menampung data asal negara tim
+   3. kota : untuk menampung data kota asal tim
+   4. kandang : berisi data kandang dari tim
+   5. tahun berdiri : menampung data sejak tahun berapa tim berdiri
+   6. Pelatih : untuk menampung data pelatih tim
+   7. KaptemTim : untuk menampung data kapten tim
