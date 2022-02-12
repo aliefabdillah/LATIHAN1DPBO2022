@@ -22,7 +22,7 @@ Spesifikasi Tugas untuk file c++ dan java:
   6. pemain : menampung data nama-nama pemain yang ada di tim
   7. nomor punggung : menampung data nomor punggung setiap pemain
 
-Spesifikasi Tugas untuk file php:
+Spesifikasi Tugas untuk file php dan python:
 - terdapat 2 class yaitu :
   1. DataTim = Class untuk representasi Data-data tim dan berisi atribut dan method
   2. indexTim = untuk menjalankan progam
