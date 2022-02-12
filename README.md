@@ -4,7 +4,7 @@
 Repository berisi file latihan praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek
 
 Janji:
-Saya Alief Muhammad Abdillah 2003623 mengerjakan Tugas Praktek 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan
+Saya Alief Muhammad Abdillah 2003623 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrogaman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan
 seperti yang telah dispesifikasikan. Aamiin
 
 Spesifikasi Tugas untuk file c++ dan java:
