@@ -34,4 +34,4 @@ Spesifikasi Tugas untuk file php dan python:
    4. kandang : berisi data kandang dari tim
    5. tahun berdiri : menampung data sejak tahun berapa tim berdiri
    6. Pelatih : untuk menampung data pelatih tim
-   7. KaptemTim : untuk menampung data kapten tim
+   7. KaptenTim : untuk menampung data kapten tim
